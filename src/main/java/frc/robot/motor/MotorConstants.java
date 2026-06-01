@@ -6,7 +6,7 @@ import com.revrobotics.spark.config.SparkFlexConfig;
 
 
 public class MotorConstants {
-    public static final int motorID = 67;
+    public static final int motorID = 60;
     public static final MotorType kMotorType = MotorType.kBrushless;
     public static final SparkFlexConfig kMotorConfig = new SparkFlexConfig();
 
